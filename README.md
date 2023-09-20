@@ -8,6 +8,14 @@
 
 ## 4. NLP Advanced
 
+- [Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+
+- [Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+
+- [Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+
+- [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+
 ## 5. Transformers
 
 ## 6. Sequence to Sequence 
