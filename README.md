@@ -31,6 +31,8 @@
 
 ## 10. Large Language Models and Generative AI
 
+- [LLM and Gen AI](https://www.coursera.org/learn/generative-ai-with-llms?adgroupid=141296026472&adpostion=&campaignid=18216928761&creativeid=619458216866&device=c&devicemodel=&gclid=CjwKCAjwsKqoBhBPEiwALrrqiBPximHfbFM9BoKYcxdu1MKXDK9v-aa7BrweBVDQVx_wrtVLr6OS3hoC6EAQAvD_BwE&keyword=coursera&matchtype=b&network=g&utm_campaign=B2C_INDIA__branded_FTCOF_courseraplus_arte_monthly&utm_content=B2C&utm_medium=sem&utm_source=gg)
+
 ## 11. Prompt Engineering
 
 ## 12. Frameworks
