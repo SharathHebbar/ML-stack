@@ -1,6 +1,40 @@
 # Machine Learning Stack
 
+## 1. Supervised Machine Learning
+### 1.1 Classification
+### 1.2 Regression
+
+## 2. Unsupervised Machine Learning
+### 2.1 Clustering
+### 2.2 Association
+
 # Deep Learning Stack
+
+## 1. DL Basics
+
+## 2. Computer Vision
+
+## 3. Image Classification
+### CNN and SOTA architectures
+
+## 4. Image Segmentation
+
+## 5. Object Detection
+### 5.1 Object Recognition
+### 5.2 Object Localization
+### 5.3 Object Detection
+
+## 6. GANs
+
+## 7. AutoEncoders
+
+## 8. StableDiffusion
+
+## 9. Transformers
+
+### 9.1 Vision Transformers
+
+## 10. Video Classification
 
 # NLP Stack
 
@@ -37,13 +71,13 @@
 - [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 ## 6. Sequence to Sequence 
-### Encoder - Decoder Models
+### Encoder - Decoder Models (Text 2 Text)
 
 ## 7. Encoder Only Models
-### Auto Encoding Models
+### Auto Encoding Models (Masked Language Modelling)
 
 ## 8. Decoder Only Models 
-### Auto Regressive Models
+### Auto Regressive Models (Causal Language Modelling)
 
 ## 9. Language Models 
 
@@ -80,7 +114,7 @@
 - [Django Docs](https://docs.djangoproject.com/en/4.2/)
 - [Django Tutorial](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
-# 13. Papers
+## 13. Papers
 
 - [RNN](https://arxiv.org/pdf/1912.05911.pdf)
 - [LSTM](https://arxiv.org/pdf/1909.09586.pdf)
@@ -89,6 +123,34 @@
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [Flan Palm](https://arxiv.org/pdf/2210.11416v5.pdf)
+
+## 14. Audio
+
+### 14.1 Automatic Speech Recognition 
+- Speech to text
+- Text to Speech
+### 14.2 Audio Segmentation
+### 14.3 Audio Classification
+### 14.4 Audio to Audio
+
+# MultiModal
+
+## Text to Image
+
+## Image to Text
+
+## Audio to Text
+
+## Text to Audio
+
+## Text to Video
+
+## Video to Text
+
+# Time Series
+
+## Deep Learning Models
+## ARIMA
 
 # Docker
 
