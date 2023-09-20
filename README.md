@@ -85,5 +85,4 @@
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [Flan Palm](https://arxiv.org/pdf/2210.11416v5.pdf)
-- 
 
