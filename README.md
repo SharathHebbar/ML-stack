@@ -1,12 +1,25 @@
 # Machine Learning Stack
 
-## 1. Supervised Machine Learning
-### 1.1 Classification
-### 1.2 Regression
+## 0. Maths
+### 0.0 Linear Algebra
+### 0.1 Trigonometry
+### 0.2 Calculus
+### 0.3 Statistics
+### 0.4 Probability
 
-## 2. Unsupervised Machine Learning
-### 2.1 Clustering
-### 2.2 Association
+## 1. Python
+
+## 2. Numpy
+
+## 3. Pandas
+
+## 4 Supervised Machine Learning
+### 4.1 Classification
+### 4.2 Regression
+
+## 5. Unsupervised Machine Learning
+### 5.1 Clustering
+### 5.2 Association
 
 # Deep Learning Stack
 
