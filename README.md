@@ -101,43 +101,7 @@
 ## 11. Prompt Engineering
 - [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o)
 
-## 12. Frameworks
-### 12. 1. Langchain
-
-- [LangChain Docs](https://python.langchain.com/docs/get_started/introduction)
-- [LangChain Tutorial](https://www.youtube.com/watch?v=nAmC7SoVLd8)
-
-### 12. 2. StreamLit
-
-- [StreamLit Docs](https://docs.streamlit.io/)
-- [Streamlit Tutorial](https://www.youtube.com/watch?v=YzvMpvXyUfs&pp=ygUXc3RyZWFtbGl0IGZ1bGwgdHV0b3JpYWw%3D)
-
-### 12. 3. FastAPI
-
-- [FastAPI Docs](https://fastapi.tiangolo.com/)
-- [FastAPI Tutorial](https://www.youtube.com/watch?v=7t2alSnE2-I&t=168s&pp=ygUVZmFzdGFwaSBmdWxsIHR1dG9yaWFs)
-
-### 12. 4. Flask
-
-- [Flask Docs](https://flask.palletsprojects.com/en/2.3.x/)
-- [Flask Tutorial](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
-
-### 12. 5. Django
-
-- [Django Docs](https://docs.djangoproject.com/en/4.2/)
-- [Django Tutorial](https://www.youtube.com/watch?v=F5mRW0jo-U4)
-
-## 13. Papers
-
-- [RNN](https://arxiv.org/pdf/1912.05911.pdf)
-- [LSTM](https://arxiv.org/pdf/1909.09586.pdf)
-- [GRU](https://arxiv.org/pdf/1406.1078v3.pdf)
-- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) **Important**
-- [BERT](https://arxiv.org/pdf/1810.04805.pdf)
-- [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [Flan Palm](https://arxiv.org/pdf/2210.11416v5.pdf)
-
-## 14. Audio
+## 12. Audio
 
 ### 14.1 Automatic Speech Recognition 
 - Speech to text
@@ -164,6 +128,43 @@
 
 ## Deep Learning Models
 ## ARIMA
+
+# Frameworks
+## 1 Langchain
+
+- [LangChain Docs](https://python.langchain.com/docs/get_started/introduction)
+- [LangChain Tutorial](https://www.youtube.com/watch?v=nAmC7SoVLd8)
+
+## 2 StreamLit
+
+- [StreamLit Docs](https://docs.streamlit.io/)
+- [Streamlit Tutorial](https://www.youtube.com/watch?v=YzvMpvXyUfs&pp=ygUXc3RyZWFtbGl0IGZ1bGwgdHV0b3JpYWw%3D)
+
+## 3. FastAPI
+
+- [FastAPI Docs](https://fastapi.tiangolo.com/)
+- [FastAPI Tutorial](https://www.youtube.com/watch?v=7t2alSnE2-I&t=168s&pp=ygUVZmFzdGFwaSBmdWxsIHR1dG9yaWFs)
+
+## 4. Flask
+
+- [Flask Docs](https://flask.palletsprojects.com/en/2.3.x/)
+- [Flask Tutorial](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+
+## 5. Django
+
+- [Django Docs](https://docs.djangoproject.com/en/4.2/)
+- [Django Tutorial](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+# Papers
+
+- [RNN](https://arxiv.org/pdf/1912.05911.pdf)
+- [LSTM](https://arxiv.org/pdf/1909.09586.pdf)
+- [GRU](https://arxiv.org/pdf/1406.1078v3.pdf)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) **Important**
+- [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+- [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [Flan Palm](https://arxiv.org/pdf/2210.11416v5.pdf)
+
 
 # Docker
 
