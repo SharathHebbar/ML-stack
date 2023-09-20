@@ -112,17 +112,12 @@
 
 # MultiModal
 
-## Text to Image
-
-## Image to Text
-
-## Audio to Text
-
-## Text to Audio
-
-## Text to Video
-
-## Video to Text
+- Text to Image
+- Image to Text
+- Audio to Text
+- Text to Audio
+- Text to Video
+- Video to Text
 
 # Time Series
 
