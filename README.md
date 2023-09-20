@@ -9,14 +9,14 @@
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 - PyTorch
-- - [RNN in PyTorch](https://www.youtube.com/watch?v=-YEHkTnL4XM)
-- - [LSTM in PyTorch](https://www.youtube.com/watch?v=7bs1me6kApI&list=PL23RutZ7d6Nr6fcHOy3qQPB6UxMnbq78z&index=15&pp=iAQB)
-- - [GRU in PyTorch](https://www.youtube.com/watch?v=M-ioa45FCvw)
+    - [RNN in PyTorch](https://www.youtube.com/watch?v=-YEHkTnL4XM)
+    - [LSTM in PyTorch](https://www.youtube.com/watch?v=7bs1me6kApI&list=PL23RutZ7d6Nr6fcHOy3qQPB6UxMnbq78z&index=15&pp=iAQB)
+    - [GRU in PyTorch](https://www.youtube.com/watch?v=M-ioa45FCvw)
 
 - Tensorflow
-- - [RNN in Tensorflow](https://www.youtube.com/watch?v=OuYtk9Ymut4)
-- - [LSTM in Tensorflow](https://www.youtube.com/watch?v=A9QVYOBjZdY)
-- - [GRU in Tensorflow](https://www.youtube.com/watch?v=rdz0UqQz5Sw)
+    - [RNN in Tensorflow](https://www.youtube.com/watch?v=OuYtk9Ymut4)
+    - [LSTM in Tensorflow](https://www.youtube.com/watch?v=A9QVYOBjZdY)
+    - [GRU in Tensorflow](https://www.youtube.com/watch?v=rdz0UqQz5Sw)
 
 ## 4. NLP Advanced
 
