@@ -23,7 +23,13 @@
 
 # Deep Learning Stack
 
-## 1. DL Basics
+## 0. Deep Learning Basics
+
+## 1. Deep Learning Advanced
+
+- [Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+- [Hyperparameter Tuning](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+- [Convolution Neural Network](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
 
 ## 2. Computer Vision
 
@@ -38,6 +44,10 @@
 ### 5.3 Object Detection
 
 ## 6. GANs
+
+- [GAN 1](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+- [GAN 2](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
+-[GAN 3](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans?specialization=generative-adversarial-networks-gans)
 
 ## 7. AutoEncoders
 
