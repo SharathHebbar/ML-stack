@@ -172,7 +172,7 @@
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) **Important**
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [Flan Palm](https://arxiv.org/pdf/2210.11416v5.pdf)
+- [Flan PaLM](https://arxiv.org/pdf/2210.11416v5.pdf)
 
 
 # Docker
