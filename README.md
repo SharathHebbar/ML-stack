@@ -14,11 +14,15 @@
 3 Pandas
 
 4 Supervised Machine Learning
+
 4.1 Classification
+
 4.2 Regression
 
 5 Unsupervised Machine Learning
+
 5.1 Clustering
+
 5.2 Association
 
 # Deep Learning Stack
@@ -34,14 +38,19 @@
 2 Computer Vision
 
 3 Image Classification
+
 3.1 CNN and SOTA architectures
 
 4 Image Segmentation
 
 5 Object Detection
+
 5.1 Object Recognition
+
 5.2 Object Localization
+
 5.3 Object Detection
+
 
 6 GANs
 
@@ -102,14 +111,16 @@
 11 Prompt Engineering
 - [Prompt Engineering Tutorial](https://www.youtube.com/watch?v=_ZvnD73m40o)
 
-12. Audio
+12 Audio
 
 12.1 Automatic Speech Recognition 
 - Speech to text
 - Text to Speech
 
 12.2 Audio Segmentation
+
 12.3 Audio Classification
+
 12.4 Audio to Audio
 
 # MultiModal
