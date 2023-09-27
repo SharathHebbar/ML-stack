@@ -1,11 +1,17 @@
 # Machine Learning Stack
 
 0 Maths
+
 0.0 Linear Algebra
+
 0.1 Trigonometry
+
 0.2 Calculus
+
 0.3 Statistics
+
 0.4 Probability
+
 
 1 Python
 
