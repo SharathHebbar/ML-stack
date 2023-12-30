@@ -250,9 +250,9 @@
 ## Transformers
 
 1. [Attention is all you need](https://arxiv.org/abs/1706.03762)
-2. Sequence to Sequence Encoder - Decoder Models (Text 2 Text)
-3. Encoder Only Models Auto Encoding Models (Masked Language Modelling)
-4. Decoder Only Models Auto Regressive Models (Causal Language Modelling)
+2. Sequence to Sequence Encoder-Decoder Models (Text 2 Text)
+3. Encoder-Only Models Auto Encoding Models (Masked Language Modelling)
+4. Decoder-Only Models Auto-Regressive Models (Causal Language Modelling)
 5. Language Models 
 
 ## Large Language Models and Generative AI
@@ -286,16 +286,6 @@
 1. ARIMA
 2. LSTM
 
-# Papers
-
-- [RNN](https://arxiv.org/pdf/1912.05911.pdf)
-- [LSTM](https://arxiv.org/pdf/1909.09586.pdf)
-- [GRU](https://arxiv.org/pdf/1406.1078v3.pdf)
-- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) **Important**
-- [BERT](https://arxiv.org/pdf/1810.04805.pdf)
-- [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- [Flan PaLM](https://arxiv.org/pdf/2210.11416v5.pdf)
-
 # MLOps
 
 ## Frameworks
@@ -307,4 +297,15 @@
 
 ## Kubernetes
 - [Kubernetes Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do&pp=ygUKS3ViZXJuZXRlcw%3D%3D)
+
+# Papers
+
+- [RNN](https://arxiv.org/pdf/1912.05911.pdf)
+- [LSTM](https://arxiv.org/pdf/1909.09586.pdf)
+- [GRU](https://arxiv.org/pdf/1406.1078v3.pdf)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) **Important**
+- [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+- [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [Flan PaLM](https://arxiv.org/pdf/2210.11416v5.pdf)
+
 
